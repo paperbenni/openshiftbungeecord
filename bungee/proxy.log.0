@@ -1,0 +1,627 @@
+13:06:31 [INFORMATION] Using mbed TLS based native cipher.
+13:06:31 [INFORMATION] Using zlib based native compressor.
+13:06:31 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:fde2c3f:1310
+13:06:31 [INFORMATION] Not on Windows, attempting to use enhanced EpollEventLoop
+13:06:32 [INFORMATION] Epoll is working, utilising it!
+13:06:32 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+13:06:32 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+13:06:32 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+13:06:32 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+13:06:32 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+13:06:32 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:06:32 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1310, git=fde2c3f)
+13:06:32 [INFORMATION] Attempting to Jenkins download module cmd_alert v1310
+13:06:33 [INFORMATION] Download complete
+13:06:33 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1310, git=fde2c3f)
+13:06:33 [INFORMATION] Attempting to Jenkins download module cmd_find v1310
+13:06:33 [INFORMATION] Download complete
+13:06:33 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1310, git=fde2c3f)
+13:06:33 [INFORMATION] Attempting to Jenkins download module cmd_list v1310
+13:06:34 [INFORMATION] Download complete
+13:06:34 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1310, git=fde2c3f)
+13:06:34 [INFORMATION] Attempting to Jenkins download module cmd_send v1310
+13:06:34 [INFORMATION] Download complete
+13:06:34 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1310, git=fde2c3f)
+13:06:34 [INFORMATION] Attempting to Jenkins download module cmd_server v1310
+13:06:34 [INFORMATION] Download complete
+13:06:34 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1310, git=fde2c3f)
+13:06:34 [INFORMATION] Attempting to Jenkins download module reconnect_yaml v1310
+13:06:34 [INFORMATION] Download complete
+13:06:34 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:34 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:34 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:34 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:34 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:34 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:35 [WARNUNG] Forced host server pvp is not defined
+13:06:35 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:35 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:35 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:35 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:35 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:35 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:35 [INFORMATION] Listening on /0.0.0.0:25577
+13:06:43 [INFORMATION] Closing listener [id: 0x93aabab0, L:/0.0.0.0:25577]
+13:06:43 [INFORMATION] Closing pending connections
+13:06:43 [INFORMATION] Disconnecting 0 connections
+13:06:43 [INFORMATION] Saving reconnect locations
+13:06:43 [INFORMATION] Disabling plugins
+13:06:44 [INFORMATION] Closing IO threads
+13:06:50 [INFORMATION] Using mbed TLS based native cipher.
+13:06:50 [INFORMATION] Using zlib based native compressor.
+13:06:50 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:fde2c3f:1310
+13:06:50 [INFORMATION] Not on Windows, attempting to use enhanced EpollEventLoop
+13:06:50 [INFORMATION] Epoll is working, utilising it!
+13:06:51 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+13:06:51 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+13:06:51 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+13:06:51 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+13:06:51 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+13:06:51 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:06:51 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [WARNUNG] Forced host server pvp is not defined
+13:06:51 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:06:51 [INFORMATION] Listening on /0.0.0.0:25577
+13:06:55 [INFORMATION] Closing listener [id: 0xafc45b4e, L:/0.0.0.0:25577]
+13:06:55 [INFORMATION] Closing pending connections
+13:06:55 [INFORMATION] Disconnecting 0 connections
+13:06:56 [INFORMATION] Saving reconnect locations
+13:06:56 [INFORMATION] Disabling plugins
+13:06:56 [INFORMATION] Closing IO threads
+16:18:06 [INFORMATION] Using mbed TLS based native cipher.
+16:18:06 [INFORMATION] Using zlib based native compressor.
+16:18:06 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:fde2c3f:1310
+16:18:06 [INFORMATION] Not on Windows, attempting to use enhanced EpollEventLoop
+16:18:06 [INFORMATION] Epoll is working, utilising it!
+16:18:06 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+16:18:06 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+16:18:06 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+16:18:06 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+16:18:06 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+16:18:06 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:18:06 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:06 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:06 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:06 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:06 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:06 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:06 [WARNUNG] Forced host server pvp is not defined
+16:18:06 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:06 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:06 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:06 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:06 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:06 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+16:18:07 [INFORMATION] Listening on /0.0.0.0:25577
+17:02:14 [INFORMATION] §cCommand not found
+17:02:15 [INFORMATION] Closing listener [id: 0xedfef2d2, L:/0.0.0.0:25577]
+17:02:15 [INFORMATION] Closing pending connections
+17:02:15 [INFORMATION] Disconnecting 0 connections
+17:02:16 [INFORMATION] Saving reconnect locations
+17:02:16 [INFORMATION] Disabling plugins
+17:02:16 [INFORMATION] Closing IO threads
+12:30:13 [INFORMATION] Using mbed TLS based native cipher.
+12:30:13 [INFORMATION] Using zlib based native compressor.
+12:30:13 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:fde2c3f:1310
+12:30:13 [INFORMATION] Not on Windows, attempting to use enhanced EpollEventLoop
+12:30:13 [INFORMATION] Epoll is working, utilising it!
+12:30:13 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+12:30:13 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+12:30:13 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+12:30:13 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+12:30:13 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+12:30:13 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:30:14 [INFORMATION] Loaded plugin UltimateBungeeManager version 1.1 by iYordiii
+12:30:14 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:14 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:14 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:14 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:14 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:14 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:19 [WARNUNG] Forced host server pvp is not defined
+12:30:19 [INFORMATION] Enabling UltimateBungeeManager ...
+12:30:19 [INFORMATION] Succesfully Enabled UltimateBungeeManager by iYordiii!
+12:30:19 [INFORMATION] Enabled plugin UltimateBungeeManager version 1.1 by iYordiii
+12:30:19 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:19 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:19 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:19 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:19 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:19 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:30:19 [INFORMATION] Listening on /0.0.0.0:25577
+12:30:33 [INFORMATION] §cCommand not found
+12:31:03 [INFORMATION] Closing listener [id: 0x01a46bfe, L:/0.0.0.0:25577]
+12:31:03 [INFORMATION] Closing pending connections
+12:31:03 [INFORMATION] Disconnecting 0 connections
+12:31:03 [INFORMATION] Saving reconnect locations
+12:31:03 [INFORMATION] Disabling plugins
+12:31:03 [INFORMATION] Closing IO threads
+12:31:08 [INFORMATION] Using mbed TLS based native cipher.
+12:31:08 [INFORMATION] Using zlib based native compressor.
+12:31:08 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:fde2c3f:1310
+12:31:08 [INFORMATION] Not on Windows, attempting to use enhanced EpollEventLoop
+12:31:08 [INFORMATION] Epoll is working, utilising it!
+12:31:08 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+12:31:08 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+12:31:08 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+12:31:08 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+12:31:08 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+12:31:08 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:31:08 [INFORMATION] Loaded plugin UltimateBungeeManager version 1.1 by iYordiii
+12:31:08 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [WARNUNG] Error enabling plugin AutoRestart
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:467)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:73)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:368)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:362)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:361)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:34)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:304)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:212)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:56)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:53)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 18 more
+12:31:08 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [WARNUNG] Forced host server pvp is not defined
+12:31:08 [INFORMATION] Enabling UltimateBungeeManager ...
+12:31:08 [INFORMATION] Succesfully Enabled UltimateBungeeManager by iYordiii!
+12:31:08 [INFORMATION] Enabled plugin UltimateBungeeManager version 1.1 by iYordiii
+12:31:08 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:31:08 [INFORMATION] Listening on /0.0.0.0:25577
+12:31:14 [INFORMATION] Closing listener [id: 0x8476fd61, L:/0.0.0.0:25577]
+12:31:14 [INFORMATION] Closing pending connections
+12:31:14 [INFORMATION] Disconnecting 0 connections
+12:31:15 [INFORMATION] Saving reconnect locations
+12:31:15 [INFORMATION] Disabling plugins
+12:31:15 [INFORMATION] Closing IO threads
+12:40:53 [INFORMATION] Using mbed TLS based native cipher.
+12:40:53 [INFORMATION] Using zlib based native compressor.
+12:40:53 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:fde2c3f:1310
+12:40:53 [INFORMATION] Not on Windows, attempting to use enhanced EpollEventLoop
+12:40:53 [INFORMATION] Epoll is working, utilising it!
+12:40:53 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+12:40:53 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+12:40:53 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+12:40:53 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+12:40:53 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+12:40:53 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:40:53 [INFORMATION] Loaded plugin UltimateBungeeManager version 1.1 by iYordiii
+12:40:53 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [WARNUNG] Error enabling plugin LuckPerms
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:467)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:73)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:368)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:362)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:361)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:34)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:304)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:212)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:56)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:53)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 18 more
+12:40:53 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [WARNUNG] Error enabling plugin AutoRestart
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:467)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:73)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:368)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:362)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:361)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:34)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:304)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:212)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:56)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:53)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 18 more
+12:40:53 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [WARNUNG] Forced host server pvp is not defined
+12:40:53 [INFORMATION] Enabling UltimateBungeeManager ...
+12:40:53 [INFORMATION] Succesfully Enabled UltimateBungeeManager by iYordiii!
+12:40:53 [INFORMATION] Enabled plugin UltimateBungeeManager version 1.1 by iYordiii
+12:40:53 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:40:53 [INFORMATION] Listening on /0.0.0.0:25577
+12:41:11 [INFORMATION] §cCommand not found
+12:41:14 [INFORMATION] Closing listener [id: 0x8d9fbcaf, L:/0.0.0.0:25577]
+12:41:14 [INFORMATION] Closing pending connections
+12:41:14 [INFORMATION] Disconnecting 0 connections
+12:41:14 [INFORMATION] Saving reconnect locations
+12:41:14 [INFORMATION] Disabling plugins
+12:41:14 [INFORMATION] Closing IO threads
+12:42:59 [INFORMATION] Using mbed TLS based native cipher.
+12:42:59 [INFORMATION] Using zlib based native compressor.
+12:42:59 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:fde2c3f:1310
+12:42:59 [INFORMATION] Not on Windows, attempting to use enhanced EpollEventLoop
+12:42:59 [INFORMATION] Epoll is working, utilising it!
+12:42:59 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+12:42:59 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+12:42:59 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+12:42:59 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+12:42:59 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+12:42:59 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:42:59 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [WARNUNG] Error enabling plugin LuckPerms
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:467)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:73)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:368)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:362)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:361)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:34)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:304)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:212)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:56)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:53)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 18 more
+12:42:59 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [WARNUNG] Forced host server pvp is not defined
+12:42:59 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+12:42:59 [INFORMATION] Listening on /0.0.0.0:25577
+12:43:06 [INFORMATION] Closing listener [id: 0xc341c22e, L:/0.0.0.0:25577]
+12:43:06 [INFORMATION] Closing pending connections
+12:43:06 [INFORMATION] Disconnecting 0 connections
+12:43:07 [INFORMATION] Saving reconnect locations
+12:43:07 [INFORMATION] Disabling plugins
+12:43:07 [INFORMATION] Closing IO threads
+13:02:36 [INFORMATION] Using mbed TLS based native cipher.
+13:02:36 [INFORMATION] Using zlib based native compressor.
+13:02:36 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:fde2c3f:1310
+13:02:36 [INFORMATION] Not on Windows, attempting to use enhanced EpollEventLoop
+13:02:36 [INFORMATION] Epoll is working, utilising it!
+13:02:36 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+13:02:36 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+13:02:36 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+13:02:36 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+13:02:36 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+13:02:36 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:02:36 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:36 [WARNUNG] Error enabling plugin LuckPerms
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:467)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:73)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:368)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:362)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:361)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:34)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:304)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:212)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:56)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:53)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 18 more
+13:02:36 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:36 [INFORMATION] Loaded plugin BungeeEssentials version 2.6.4 by PantherMan594
+13:02:36 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:36 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:36 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:36 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:41 [WARNUNG] Forced host server pvp is not defined
+13:02:41 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:41 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:41 [INFORMATION] [BungeeEssentials] You are running the latest version of BungeeEssentials (v2.6.4)!
+13:02:42 [INFORMATION] [BungeeEssentials] Downloading SQLite JDBC library...
+13:02:48 [INFORMATION] [BungeeEssentials] Enabled the chat logger
+13:02:48 [INFORMATION] [BungeeEssentials] Loaded 4 aliases from config
+13:02:48 [INFORMATION] [BungeeEssentials] Enabled aliases
+13:02:48 [INFORMATION] [BungeeEssentials] Loaded 2 announcements from config
+13:02:48 [INFORMATION] [BungeeEssentials] Enabled announcements
+13:02:48 [INFORMATION] §f§f§8[§4!§8] §4Donate to support our server!
+§f§ndonate.myserver.com
+13:02:48 [INFORMATION] [BungeeEssentials] Loaded 8 rules from config
+13:02:48 [INFORMATION] [BungeeEssentials] Registered 20 commands successfully
+13:02:48 [INFORMATION] Enabled plugin BungeeEssentials version 2.6.4 by PantherMan594
+13:02:48 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:48 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:48 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:48 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:02:48 [INFORMATION] Listening on /0.0.0.0:25577
+13:02:51 [INFORMATION] [BungeeEssentials] Enabled the chat logger
+13:02:51 [INFORMATION] [BungeeEssentials] Loaded 4 aliases from config
+13:02:51 [INFORMATION] [BungeeEssentials] Enabled aliases
+13:02:51 [INFORMATION] [BungeeEssentials] Loaded 2 announcements from config
+13:02:51 [INFORMATION] [BungeeEssentials] Enabled announcements
+13:02:51 [INFORMATION] §f§f§8[§4!§8] §4Donate to support our server!
+§f§ndonate.myserver.com
+13:02:51 [INFORMATION] [BungeeEssentials] Loaded 8 rules from config
+13:02:51 [INFORMATION] [BungeeEssentials] Registered 20 commands successfully
+13:03:17 [INFORMATION] Closing listener [id: 0xcfc19b04, L:/0.0.0.0:25577]
+13:03:17 [INFORMATION] Closing pending connections
+13:03:17 [INFORMATION] Disconnecting 0 connections
+13:03:17 [INFORMATION] Saving reconnect locations
+13:03:17 [INFORMATION] Disabling plugins
+13:03:17 [INFORMATION] Closing IO threads
+14:36:39 [INFORMATION] Using mbed TLS based native cipher.
+14:36:39 [INFORMATION] Using zlib based native compressor.
+14:36:39 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:fde2c3f:1310
+14:36:39 [INFORMATION] Not on Windows, attempting to use enhanced EpollEventLoop
+14:36:39 [INFORMATION] Epoll is working, utilising it!
+14:36:39 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+14:36:39 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+14:36:39 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+14:36:39 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+14:36:39 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+14:36:39 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:36:39 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:39 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:39 [INFORMATION] Loaded plugin BungeeEssentials version 2.6.4 by PantherMan594
+14:36:39 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:39 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:39 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:39 [INFORMATION] Loaded plugin BungeeServerManager version 1.0.15-SNAPSHOT by Teg
+14:36:39 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:39 [WARNUNG] Forced host server pvp is not defined
+14:36:39 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:39 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:40 [INFORMATION] [BungeeEssentials] You are running the latest version of BungeeEssentials (v2.6.4)!
+14:36:40 [INFORMATION] [BungeeEssentials] Enabled the chat logger
+14:36:40 [INFORMATION] [BungeeEssentials] Loaded 4 aliases from config
+14:36:40 [INFORMATION] [BungeeEssentials] Enabled aliases
+14:36:40 [INFORMATION] [BungeeEssentials] Loaded 2 announcements from config
+14:36:40 [INFORMATION] [BungeeEssentials] Enabled announcements
+14:36:40 [INFORMATION] [BungeeEssentials] Loaded 8 rules from config
+14:36:40 [INFORMATION] §f§f§8[§4!§8] §4Donate to support our server!
+§f§ndonate.myserver.com
+14:36:40 [INFORMATION] [BungeeEssentials] Registered 20 commands successfully
+14:36:40 [INFORMATION] Enabled plugin BungeeEssentials version 2.6.4 by PantherMan594
+14:36:40 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:40 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:40 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:40 [INFORMATION] Enabled plugin BungeeServerManager version 1.0.15-SNAPSHOT by Teg
+14:36:40 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+14:36:40 [INFORMATION] Listening on /0.0.0.0:25577
+14:36:43 [INFORMATION] [BungeeEssentials] Enabled the chat logger
+14:36:43 [INFORMATION] [BungeeEssentials] Loaded 4 aliases from config
+14:36:43 [INFORMATION] [BungeeEssentials] Enabled aliases
+14:36:43 [INFORMATION] [BungeeEssentials] Loaded 2 announcements from config
+14:36:43 [INFORMATION] [BungeeEssentials] Enabled announcements
+14:36:43 [INFORMATION] [BungeeEssentials] Loaded 8 rules from config
+14:36:43 [INFORMATION] §f§f§8[§4!§8] §4Donate to support our server!
+§f§ndonate.myserver.com
+14:36:43 [INFORMATION] [BungeeEssentials] Registered 20 commands successfully
+14:36:52 [INFORMATION] Closing listener [id: 0x4024c0f0, L:/0.0.0.0:25577]
+14:36:52 [INFORMATION] Closing pending connections
+14:36:52 [INFORMATION] Disconnecting 0 connections
+14:36:52 [INFORMATION] Saving reconnect locations
+14:36:52 [INFORMATION] Disabling plugins
+14:36:53 [INFORMATION] Closing IO threads
+13:44:56 [INFORMATION] Using mbed TLS based native cipher.
+13:44:56 [INFORMATION] Using zlib based native compressor.
+13:44:56 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:fde2c3f:1310
+13:44:56 [INFORMATION] Not on Windows, attempting to use enhanced EpollEventLoop
+13:44:56 [INFORMATION] Epoll is working, utilising it!
+13:44:56 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+13:44:56 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+13:44:56 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+13:44:56 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+13:44:56 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+13:44:56 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:44:56 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:56 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:56 [INFORMATION] Loaded plugin BungeeEssentials version 2.6.4 by PantherMan594
+13:44:56 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:56 [WARNUNG] Error enabling plugin IngameShell
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:467)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:73)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:368)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:362)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:361)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:34)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:304)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:212)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:56)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:53)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:27)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 18 more
+13:44:56 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:56 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:56 [INFORMATION] Loaded plugin BungeeServerManager version 1.0.15-SNAPSHOT by Teg
+13:44:56 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:56 [WARNUNG] Forced host server pvp is not defined
+13:44:56 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:56 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:57 [INFORMATION] [BungeeEssentials] You are running the latest version of BungeeEssentials (v2.6.4)!
+13:44:57 [INFORMATION] [BungeeEssentials] Enabled the chat logger
+13:44:57 [INFORMATION] [BungeeEssentials] Loaded 4 aliases from config
+13:44:57 [INFORMATION] [BungeeEssentials] Enabled aliases
+13:44:57 [INFORMATION] [BungeeEssentials] Loaded 2 announcements from config
+13:44:57 [INFORMATION] [BungeeEssentials] Enabled announcements
+13:44:57 [INFORMATION] [BungeeEssentials] Loaded 8 rules from config
+13:44:57 [INFORMATION] [BungeeEssentials] Registered 20 commands successfully
+13:44:57 [INFORMATION] §f§f§8[§4!§8] §4Donate to support our server!
+§f§ndonate.myserver.com
+13:44:57 [INFORMATION] Enabled plugin BungeeEssentials version 2.6.4 by PantherMan594
+13:44:57 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:57 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:57 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:57 [INFORMATION] Enabled plugin BungeeServerManager version 1.0.15-SNAPSHOT by Teg
+13:44:57 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:44:57 [INFORMATION] Listening on /0.0.0.0:25577
+13:45:00 [INFORMATION] [BungeeEssentials] Enabled the chat logger
+13:45:00 [INFORMATION] [BungeeEssentials] Loaded 4 aliases from config
+13:45:00 [INFORMATION] [BungeeEssentials] Enabled aliases
+13:45:00 [INFORMATION] [BungeeEssentials] Loaded 2 announcements from config
+13:45:00 [INFORMATION] [BungeeEssentials] Enabled announcements
+13:45:00 [INFORMATION] §f§f§8[§4!§8] §4Donate to support our server!
+§f§ndonate.myserver.com
+13:45:00 [INFORMATION] [BungeeEssentials] Loaded 8 rules from config
+13:45:00 [INFORMATION] [BungeeEssentials] Registered 20 commands successfully
+13:45:01 [INFORMATION] Closing listener [id: 0xab479bf4, L:/0.0.0.0:25577]
+13:45:01 [INFORMATION] Closing pending connections
+13:45:01 [INFORMATION] Disconnecting 0 connections
+13:45:02 [INFORMATION] Saving reconnect locations
+13:45:02 [INFORMATION] Disabling plugins
+13:45:02 [INFORMATION] Closing IO threads
+13:45:04 [INFORMATION] Thank you and goodbye
+13:43:20 [INFORMATION] Using mbed TLS based native cipher.
+13:43:20 [INFORMATION] Using zlib based native compressor.
+13:43:20 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.12-SNAPSHOT:fde2c3f:1310
+13:43:20 [INFORMATION] Not on Windows, attempting to use enhanced EpollEventLoop
+13:43:20 [INFORMATION] Epoll is working, utilising it!
+13:43:20 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+13:43:20 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+13:43:20 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+13:43:20 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+13:43:20 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+13:43:20 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:43:20 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:20 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:20 [INFORMATION] Loaded plugin SkinsRestorer version 13.3 by Th3Tr0LLeR
+13:43:20 [INFORMATION] Loaded plugin BungeeEssentials version 2.6.4 by PantherMan594
+13:43:20 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:20 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:20 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:20 [INFORMATION] Loaded plugin BungeeServerManager version 1.0.15-SNAPSHOT by Teg
+13:43:20 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:25 [WARNUNG] Forced host server pvp is not defined
+13:43:26 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:26 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:26 [INFORMATION] Enabled plugin SkinsRestorer version 13.3 by Th3Tr0LLeR
+13:43:26 [INFORMATION] [BungeeEssentials] You are running the latest version of BungeeEssentials (v2.6.4)!
+13:43:26 [INFORMATION] §f§e[§2SkinsRestorer§e] §a----------------------------------------------
+13:43:26 [INFORMATION] §f§e[§2SkinsRestorer§e] §a    +===============+
+13:43:26 [INFORMATION] §f§e[§2SkinsRestorer§e] §a    | SkinsRestorer |
+13:43:26 [INFORMATION] §f§e[§2SkinsRestorer§e] §a    +===============+
+13:43:26 [INFORMATION] §f§e[§2SkinsRestorer§e] §a----------------------------------------------
+13:43:26 [INFORMATION] §f§e[§2SkinsRestorer§e] §b    Current version: §a13.3
+13:43:26 [INFORMATION] §f§e[§2SkinsRestorer§e] §a    This is the latest version!
+13:43:26 [INFORMATION] §f§e[§2SkinsRestorer§e] §a----------------------------------------------
+13:43:26 [INFORMATION] [BungeeEssentials] Enabled the chat logger
+13:43:26 [INFORMATION] [BungeeEssentials] Loaded 4 aliases from config
+13:43:26 [INFORMATION] [BungeeEssentials] Enabled aliases
+13:43:26 [INFORMATION] [BungeeEssentials] Loaded 2 announcements from config
+13:43:26 [INFORMATION] [BungeeEssentials] Enabled announcements
+13:43:26 [INFORMATION] §f§f§8[§4!§8] §4Donate to support our server!
+§f§ndonate.myserver.com
+13:43:26 [INFORMATION] [BungeeEssentials] Loaded 8 rules from config
+13:43:26 [INFORMATION] [BungeeEssentials] Registered 20 commands successfully
+13:43:26 [INFORMATION] Enabled plugin BungeeEssentials version 2.6.4 by PantherMan594
+13:43:26 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:26 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:26 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:26 [INFORMATION] Enabled plugin BungeeServerManager version 1.0.15-SNAPSHOT by Teg
+13:43:26 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.12-SNAPSHOT:fde2c3f:1310 by SpigotMC
+13:43:27 [INFORMATION] Listening on /0.0.0.0:25577
+13:43:30 [INFORMATION] [BungeeEssentials] Enabled the chat logger
+13:43:30 [INFORMATION] [BungeeEssentials] Loaded 4 aliases from config
+13:43:30 [INFORMATION] [BungeeEssentials] Enabled aliases
+13:43:30 [INFORMATION] [BungeeEssentials] Loaded 2 announcements from config
+13:43:30 [INFORMATION] [BungeeEssentials] Enabled announcements
+13:43:30 [INFORMATION] §f§f§8[§4!§8] §4Donate to support our server!
+§f§ndonate.myserver.com
+13:43:30 [INFORMATION] [BungeeEssentials] Loaded 8 rules from config
+13:43:30 [INFORMATION] [BungeeEssentials] Registered 20 commands successfully
+13:43:32 [INFORMATION] §cCommand not found
+13:43:33 [INFORMATION] Closing listener [id: 0xb139e87a, L:/0.0.0.0:25577]
+13:43:33 [INFORMATION] Closing pending connections
+13:43:33 [INFORMATION] Disconnecting 0 connections
+13:43:34 [INFORMATION] Saving reconnect locations
+13:43:34 [INFORMATION] Disabling plugins
+13:43:34 [INFORMATION] Closing IO threads
